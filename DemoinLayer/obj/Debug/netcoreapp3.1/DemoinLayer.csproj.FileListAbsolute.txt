@@ -1,0 +1,9 @@
+C:\Users\mosta\source\repos\DemoinLayer\bin\Debug\netcoreapp3.1\DemoinLayer.deps.json
+C:\Users\mosta\source\repos\DemoinLayer\bin\Debug\netcoreapp3.1\DemoinLayer.dll
+C:\Users\mosta\source\repos\DemoinLayer\bin\Debug\netcoreapp3.1\DemoinLayer.pdb
+C:\Users\mosta\source\repos\DemoinLayer\obj\Debug\netcoreapp3.1\DemoinLayer.csprojAssemblyReference.cache
+C:\Users\mosta\source\repos\DemoinLayer\obj\Debug\netcoreapp3.1\DemoinLayer.AssemblyInfoInputs.cache
+C:\Users\mosta\source\repos\DemoinLayer\obj\Debug\netcoreapp3.1\DemoinLayer.AssemblyInfo.cs
+C:\Users\mosta\source\repos\DemoinLayer\obj\Debug\netcoreapp3.1\DemoinLayer.csproj.CoreCompileInputs.cache
+C:\Users\mosta\source\repos\DemoinLayer\obj\Debug\netcoreapp3.1\DemoinLayer.dll
+C:\Users\mosta\source\repos\DemoinLayer\obj\Debug\netcoreapp3.1\DemoinLayer.pdb
